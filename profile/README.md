@@ -5,41 +5,40 @@
 <br><br>
 
 ![SDVOSB](https://img.shields.io/badge/SDVOSB-Verified-EE2B2B?style=for-the-badge&logoColor=white)
+![VOSB](https://img.shields.io/badge/VOSB-Verified-EE2B2B?style=for-the-badge&logoColor=white)
 ![Veteran Owned](https://img.shields.io/badge/Veteran_Owned-EE2B2B?style=for-the-badge&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-333333?style=for-the-badge&logoColor=white)
-![FinTech](https://img.shields.io/badge/FinTech-333333?style=for-the-badge&logoColor=white)
 ![Mission Assured](https://img.shields.io/badge/Mission_Assured-5E6B47?style=for-the-badge&logoColor=white)
 
-> ***"Defend Forward. Operate Resilient. Build Wealth."***
+> ***"Defend Forward & Operate Resilient"***
 
 [![Website](https://img.shields.io/badge/opsyxtechnologies.com-121212?style=flat-square&logo=googlechrome&logoColor=EE2B2B)](https://opsyxtechnologies.com)
 [![Email](https://img.shields.io/badge/info@opsyxtechnologies.com-121212?style=flat-square&logo=gmail&logoColor=EE2B2B)](mailto:info@opsyxtechnologies.com)
-[![Discord](https://img.shields.io/badge/Join_Community-121212?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/opsyxtechnologies)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/opsyx-technologies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/opsyxtechnologies)
 
 ---
 
 ### Who We Are
 
-Opsyx Technologies is a veteran-founded technology company operating at the intersection of cybersecurity, financial technology, and brand protection. We bring military-grade discipline to every vertical we enter, building systems that defend, perform, and scale.
+Opsyx Technologies is a Service-Disabled Veteran-Owned Small Business (SDVOSB) delivering mission-focused cybersecurity, cyber operations support, and secure automation to Department of the Warfighter and federal customers.
 
-We don't just react, we **Defend Forward**. We don't just recover, we **Operate Resilient**. We don't just sustain, we **Build Wealth**.
+We don't just react, we **Defend Forward**. We don't just recover, we **Operate Resilient**.
 
 ---
 
 ### What We Do
 
-**Cybersecurity**<br>
-Offensive and defensive security consulting, Purple Team operations, and mission assurance for federal and enterprise clients.
+**Cybersecurity Operations**<br>
+Purple Team operations, SIEM administration, threat hunting, penetration testing, incident response, and ICS/OT security monitoring.
 
-**Financial Technology**<br>
-Algorithmic trading platforms with multi-exchange signal analysis, automated risk management, and strategy validation.
+**Compliance & Accreditation**<br>
+NIST SP 800-53/171, CMMC preparation, STIG implementation, RMF authorization, and ATO support.
 
-**Brand Protection**<br>
-Digital identity verification and brand authentication solutions.
+**Training & Workforce Development**<br>
+Cyber range curricula, certification preparation, skills evaluation, and workforce development for cyber defense and operations teams.
 
-**Training and Education**<br>
-Hands-on cybersecurity education through live instruction, Discord-based community learning, and mission-ready lab environments for Blue, Red, and Purple Teams.
+**IT Infrastructure & Secure Platforms**<br>
+Network architecture, infrastructure hardening, hybrid cloud, secure automation, and DNS architecture.
 
 ---
 
@@ -47,57 +46,37 @@ Hands-on cybersecurity education through live instruction, Discord-based communi
 
 | Credential | Status |
 |:----------:|:------:|
-| **SAM.gov UEI** | `ZCJ8EM85AJB3` |
-| **CAGE Code** | `14CY7` |
-| **D-U-N-S** | `11-956-9005` |
-| **SDVOSB** | Verified |
-
----
-
-### Our Mission
-
-To integrate cybersecurity and technology as a proactive force in mission-critical environments by fusing Purple Team operations that strengthen both offensive and defensive readiness, developing secure automation frameworks and financial technology platforms, delivering mission assurance through resilient architectures and risk-informed strategy, and building communities through hands-on training and collaborative learning.
-
-Every solution is engineered with readiness in mind, delivered at the **speed of relevance**.
-
----
-
-### What We Value
-
-| Core Value | Operational Meaning |
-|:----------:|:-------------------:|
-| **Integrity** | Truth in analysis, transparency in action |
-| **Resilience** | Systems and teams that bounce forward, not just back |
-| **Clarity** | Documentation and execution with precision and purpose |
-| **Service** | Grounded in veteran principles, mission before ego |
-| **Innovation** | Bridging legacy wisdom with modern technology and tooling |
-| **Wealth** | Building sustainable value that funds the mission |
+| **SAM.gov UEI** |  |
+| **CAGE Code** |  |
+| **D-U-N-S** |  |
+| **SDVOSB / VOSB** | SBA VetCert Verified |
+| **SAM.gov** | Active |
 
 ---
 
 ### Certifications
 
-![A+](https://img.shields.io/badge/A+-EE2B2B?style=flat-square&logoColor=white)
-![Network+](https://img.shields.io/badge/Network+-EE2B2B?style=flat-square&logoColor=white)
-![Security+](https://img.shields.io/badge/Security+-EE2B2B?style=flat-square&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-EE2B2B?style=flat-square&logoColor=white)
+![PenTest+](https://img.shields.io/badge/PenTest+-EE2B2B?style=flat-square&logoColor=white)
 ![CySA+](https://img.shields.io/badge/CySA+-5E6B47?style=flat-square&logoColor=white)
-![PenTest+](https://img.shields.io/badge/PenTest+-5E6B47?style=flat-square&logoColor=white)
+![Security+](https://img.shields.io/badge/Security+-5E6B47?style=flat-square&logoColor=white)
+![Network+](https://img.shields.io/badge/Network+-5E6B47?style=flat-square&logoColor=white)
+![A+](https://img.shields.io/badge/A+-5E6B47?style=flat-square&logoColor=white)
 ![Linux+](https://img.shields.io/badge/Linux+-5E6B47?style=flat-square&logoColor=white)
-![CSAP](https://img.shields.io/badge/CSAP-333333?style=flat-square&logoColor=white)
-![CC](https://img.shields.io/badge/CC-333333?style=flat-square&logoColor=white)
-![CyberOps](https://img.shields.io/badge/CyberOps-333333?style=flat-square&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-333333?style=flat-square&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-404040?style=flat-square&logoColor=white)
-![RHCSA](https://img.shields.io/badge/RHCSA-404040?style=flat-square&logoColor=white)
-
-Industry certifications held by our team.
+![ISC2 CC](https://img.shields.io/badge/ISC2_CC-333333?style=flat-square&logoColor=white)
+![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps-333333?style=flat-square&logoColor=white)
+![Dragos DPCU](https://img.shields.io/badge/Dragos_DPCU-333333?style=flat-square&logoColor=white)
+![SANS SEC504](https://img.shields.io/badge/SANS_SEC504-404040?style=flat-square&logoColor=white)
+![SANS ICS310](https://img.shields.io/badge/SANS_ICS310-404040?style=flat-square&logoColor=white)
+![SANS ICS515](https://img.shields.io/badge/SANS_ICS515-404040?style=flat-square&logoColor=white)
+![DC3 INCH](https://img.shields.io/badge/DC3_INCH-404040?style=flat-square&logoColor=white)
 
 ---
 
-**Opsyx Technologies LLC** · Augusta, GA
+**Opsyx Technologies LLC** &middot; Augusta, GA
 
-[opsyxtechnologies.com](https://opsyxtechnologies.com) · [info@opsyxtechnologies.com](mailto:info@opsyxtechnologies.com) · [Discord](https://discord.gg/opsyxtechnologies)
+[opsyxtechnologies.com](https://opsyxtechnologies.com) &middot; [info@opsyxtechnologies.com](mailto:info@opsyxtechnologies.com)
 
-[![Made with Love by Veterans](https://img.shields.io/badge/Made_with_♥_by_Veterans-EE2B2B?style=flat-square&logoColor=white)](https://github.com/opsyxtechnologies)
+OPSYX TECHNOLOGIES&trade; is a service mark for cybersecurity consulting, monitoring, and secure technology services, filed with the U.S. Patent and Trademark Office in Class 042.
 
 </div>
