@@ -42,6 +42,86 @@ Network architecture, infrastructure hardening, hybrid cloud, secure automation,
 
 ---
 
+### Projects & Platforms
+
+Tools, platforms, and systems built and actively maintained by Opsyx Technologies.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Operation Iron Veil**
+
+Multi-tier CTF cyber range built for training cyber operators from the ground up. Students progress through realistic network scenarios covering reconnaissance, pivoting, credential exploitation, lateral movement, and forensics — all in a containerized, instructor-managed environment.
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)<br>
+![Active Development](https://img.shields.io/badge/Active_Development-EE2B2B?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+**Aegis Platform**
+
+Automated trading engine and signal intelligence system supporting multiple crypto exchanges via a unified connector layer. Features dry-run safety mode, Discord-based reporting, and a FastAPI dashboard for position tracking, signal review, and performance analytics.
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-333333?style=flat-square&logo=discord&logoColor=white)
+![ccxt](https://img.shields.io/badge/ccxt-333333?style=flat-square&logoColor=white)<br>
+![Active Development](https://img.shields.io/badge/Active_Development-EE2B2B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**IAmProof**
+
+Veteran identity and proof-of-service platform. Allows service members to create verified, shareable profiles documenting their military service — designed to bridge the civilian-military gap for employers, academic institutions, and community partners.
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat-square&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-333333?style=flat-square&logo=python&logoColor=white)<br>
+![Active Development](https://img.shields.io/badge/Active_Development-EE2B2B?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+**Opsyx Training Server**
+
+Discord-integrated automation suite delivering daily market intelligence briefs, cyber training content, and signals analysis to operator channels. AI-assisted commentary provides context-aware situational awareness for students and analysts.
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-333333?style=flat-square&logo=discord&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-333333?style=flat-square&logo=google&logoColor=white)<br>
+![Active](https://img.shields.io/badge/Active-5E6B47?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**opsyxtechnologies.com**
+
+Public-facing company website deployed on Cloudflare Pages with a serverless contact form, Gmail API routing, and TypeScript-typed Worker functions. CI/CD pipeline auto-deploys on every push to main.
+
+![React 19](https://img.shields.io/badge/React_19-333333?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-333333?style=flat-square&logo=cloudflare&logoColor=white)<br>
+![Live](https://img.shields.io/badge/Live-5E6B47?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Federal Credentials
 
 | Credential | Status |
