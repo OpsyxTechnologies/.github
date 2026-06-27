@@ -125,13 +125,14 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 
 ### Federal Credentials
 
-| Credential | Status |
-|:----------:|:------:|
-| **SAM.gov UEI** |  |
-| **CAGE Code** |  |
-| **D-U-N-S** |  |
-| **SDVOSB / VOSB** | SBA VetCert Verified |
-| **SAM.gov** | Active |
+| Credential | Detail | Status |
+|:----------:|:------:|:------:|
+| **SAM.gov UEI** | ZCJ8EM85AJB3 | ![Approved](https://img.shields.io/badge/Approved-5E6B47?style=flat-square) |
+| **CAGE Code** | 14CY7 | ![Approved](https://img.shields.io/badge/Approved-5E6B47?style=flat-square) |
+| **D-U-N-S** | | ![Approved](https://img.shields.io/badge/Approved-5E6B47?style=flat-square) |
+| **SDVOSB / VOSB** | SBA VetCert | ![Verified](https://img.shields.io/badge/Verified-5E6B47?style=flat-square) |
+| **SAM.gov** | Expires Mar 2027 | ![Active](https://img.shields.io/badge/Active-5E6B47?style=flat-square) |
+| **GSA MAS** | eOffer YG9NNAIK | ![Pending](https://img.shields.io/badge/Pending-EE2B2B?style=flat-square) |
 
 ---
 
