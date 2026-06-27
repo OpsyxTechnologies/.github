@@ -79,14 +79,15 @@ Automated trading engine and signal intelligence system supporting multiple cryp
 <tr>
 <td valign="top" width="50%">
 
-**IAmProof**
+**IAMPROOF**
 
-Veteran identity and proof-of-service platform. Allows service members to create verified, shareable profiles documenting their military service — designed to bridge the civilian-military gap for employers, academic institutions, and community partners.
+A brand and community movement rooted in resilience, identity, and transformation. Members submit their story, earn a verified Proof ID, and join a growing ecosystem of people who rebuilt themselves against the odds — spanning apparel collections, state chapters, mentorship, and grant-backed community support.
+
+*"This isn't about clothing. This is about conviction."*
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat-square&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-333333?style=flat-square&logo=python&logoColor=white)<br>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat-square&logoColor=white)<br>
 ![Active Development](https://img.shields.io/badge/Active_Development-EE2B2B?style=flat-square)
 
 </td>
