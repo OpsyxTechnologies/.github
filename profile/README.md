@@ -29,7 +29,13 @@ We don't just react, we **Defend Forward**. We don't just recover, we **Operate 
 ### What We Do
 
 **Cybersecurity Operations**<br>
-Purple Team operations, SIEM administration, threat hunting, penetration testing, incident response, and ICS/OT security monitoring.
+Purple Team operations, SIEM administration, penetration testing, incident response, and ICS/OT security monitoring.
+
+**Cyber Threat Hunting**<br>
+Proactive adversary detection through hypothesis-driven hunts, behavioral analytics, IOC/TTP correlation, and kill-chain analysis across enterprise and OT environments.
+
+**Host & Network Analysis**<br>
+Deep-dive forensic analysis of endpoint artifacts, memory, network traffic (PCAP), and log sources to identify compromise, lateral movement, and persistent access.
 
 **Compliance & Accreditation**<br>
 NIST SP 800-53/171, CMMC preparation, STIG implementation, RMF authorization, and ATO support.
@@ -133,7 +139,7 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 | **SDVOSB / VOSB** | SBA VetCert | ![Verified](https://img.shields.io/badge/Verified-5E6B47?style=flat-square) |
 | **SAM.gov** | Expires Mar 2027 | ![Active](https://img.shields.io/badge/Active-5E6B47?style=flat-square) |
 | **GSA MAS** | eOffer YG9NNAIK | ![Pending](https://img.shields.io/badge/Pending-EE2B2B?style=flat-square) |
-| **USPTO Trademark** | OPSYX TECHNOLOGIES&trade; · Serial #99304852 · Class 042 | ![Approved for Use](https://img.shields.io/badge/Approved_for_Use-5E6B47?style=flat-square) |
+| **USPTO Trademark** | OPSYX TECHNOLOGIES&trade; &middot; Serial #99304852 &middot; Class 042 | ![Approved for Use](https://img.shields.io/badge/Approved_for_Use-5E6B47?style=flat-square) |
 
 ---
 
