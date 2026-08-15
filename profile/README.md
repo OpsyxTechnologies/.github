@@ -139,7 +139,7 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 | **SDVOSB / VOSB** | SBA VetCert | ![Verified](https://img.shields.io/badge/Verified-5E6B47?style=flat-square) |
 | **SAM.gov** | Expires Mar 2027 | ![Active](https://img.shields.io/badge/Active-5E6B47?style=flat-square) |
 | **GSA MAS** | eOffer YG9NNAIK | ![Pending](https://img.shields.io/badge/Pending-EE2B2B?style=flat-square) |
-| **USPTO Trademark** | OPSYX TECHNOLOGIES&trade; &middot; Serial #99304852 &middot; Class 042 | ![Approved for Use](https://img.shields.io/badge/Approved_for_Use-5E6B47?style=flat-square) |
+| **USPTO Trademark** | OPSYX TECHNOLOGIES&reg; &middot; Reg. #8,385,228 &middot; Class 042 | ![Registered](https://img.shields.io/badge/Registered-5E6B47?style=flat-square) |
 
 ---
 
@@ -166,6 +166,6 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 
 [opsyxtechnologies.com](https://opsyxtechnologies.com) &middot; [info@opsyxtechnologies.com](mailto:info@opsyxtechnologies.com)
 
-OPSYX TECHNOLOGIES&trade; is a service mark for cybersecurity consulting, monitoring, and secure technology services, filed with the U.S. Patent and Trademark Office in Class 042.
+OPSYX TECHNOLOGIES&reg; is a registered service mark (Reg. No. 8,385,228) for cybersecurity consulting, monitoring, and secure technology services, registered with the U.S. Patent and Trademark Office in Class 042.
 
 </div>
