@@ -20,7 +20,7 @@
 
 ### Who We Are
 
-Opsyx Technologies is a Service-Disabled Veteran-Owned Small Business (SDVOSB) delivering mission-focused cybersecurity, cyber operations support, and secure automation to Department of the Warfighter and federal customers.
+Opsyx Technologies is a Service-Disabled Veteran-Owned Small Business (SDVOSB) delivering mission-focused cybersecurity, cyber operations support, and secure automation to the Department of War and federal customers.
 
 We don't just react, we **Defend Forward**. We don't just recover, we **Operate Resilient**.
 
@@ -162,7 +162,7 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 
 ---
 
-**Opsyx Technologies LLC** &middot; Augusta, GA
+**Opsyx Technologies LLC** &middot; Grovetown, GA
 
 [opsyxtechnologies.com](https://opsyxtechnologies.com) &middot; [info@opsyxtechnologies.com](mailto:info@opsyxtechnologies.com)
 
