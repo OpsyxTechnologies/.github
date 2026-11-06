@@ -145,7 +145,6 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 
 ### Certifications
 
-![CEH](https://img.shields.io/badge/CEH-EE2B2B?style=flat-square&logoColor=white)
 ![PenTest+](https://img.shields.io/badge/PenTest+-EE2B2B?style=flat-square&logoColor=white)
 ![CySA+](https://img.shields.io/badge/CySA+-5E6B47?style=flat-square&logoColor=white)
 ![Security+](https://img.shields.io/badge/Security+-5E6B47?style=flat-square&logoColor=white)
