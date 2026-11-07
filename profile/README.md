@@ -154,13 +154,13 @@ Public-facing company website deployed on Cloudflare Pages with a serverless con
 ![ISC2 CC](https://img.shields.io/badge/ISC2_CC-333333?style=flat-square&logoColor=white)
 ![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps-333333?style=flat-square&logoColor=white)
 ![Dragos DPCU](https://img.shields.io/badge/Dragos_DPCU-333333?style=flat-square&logoColor=white)
-![DC3 INCH](https://img.shields.io/badge/DC3_INCH-404040?style=flat-square&logoColor=white)
 
 ### Training
 
 ![SANS SEC504](https://img.shields.io/badge/SANS_SEC504-404040?style=flat-square&logoColor=white)
 ![SANS ICS310](https://img.shields.io/badge/SANS_ICS310-404040?style=flat-square&logoColor=white)
 ![SANS ICS515](https://img.shields.io/badge/SANS_ICS515-404040?style=flat-square&logoColor=white)
+![DC3 INCH](https://img.shields.io/badge/DC3_INCH-404040?style=flat-square&logoColor=white)
 
 ---
 
